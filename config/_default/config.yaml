@@ -5,14 +5,14 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Microprogramme en analyse de mégadonnées # Website name
-baseurl: 'https://microprogrammeUDEM.github.io/' # Website URL
+baseurl: 'thomasGareau.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
