@@ -10,13 +10,13 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: J'ai les skills suivants
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 1000000%
   icon: r-project
   icon_pack: fab
   name: R
